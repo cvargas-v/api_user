@@ -118,3 +118,7 @@ docker-compose exec app pytest
 - Tokens JWT firmados y almacenados en base
 
 - Claves secretas y URI ocultas en .env
+
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/47d1b066-ec2b-443c-aee9-580d2da5909c" /> Diagrama
+
+![api_user](Api_user_diagrama.png)
